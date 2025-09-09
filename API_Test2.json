@@ -1,0 +1,17 @@
+{
+ "id": "Reiner Test",
+ "area": 10000,
+ "country": "VN",
+ "city": "Cantho",
+ "length": 112,
+ "yield": 6,
+ "efch4": 1.1,
+ "sfpre": 1,
+ "sfw": 1,
+ "nfert": 8,
+ "strawburn": 5,
+ "cfoa1": 1,
+ "roa1": 0.8,
+ "cfoa2": 0.17,
+ "roa2": 2
+}
